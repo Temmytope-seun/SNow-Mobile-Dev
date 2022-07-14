@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Incident)">17e5cbcb2fa4111033f3b8e72799b6a9</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>trailing_swipe</location>
+        <name>Edit</name>
+        <order>20</order>
+        <parent>2b45c8232f60111033f3b8e72799b612</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 17:56:43</sys_created_on>
+        <sys_id>2d45b1632fa4111033f3b8e72799b6ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Service Desk Support Mobile" source="x_snc_service_desk">1565c3c72fa4111033f3b8e72799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Desk Support Mobile">1565c3c72fa4111033f3b8e72799b67f</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2d45b1632fa4111033f3b8e72799b6ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 17:56:43</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d45b1632fa4111033f3b8e72799b6ea"/>
+</record_update>
